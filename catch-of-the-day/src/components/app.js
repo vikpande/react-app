@@ -1,5 +1,5 @@
 import React from 'react';
-import header from './header';
+import Header from './Header';
 
 class app extends React.Component {
 	render() {
@@ -10,7 +10,7 @@ class app extends React.Component {
 				</div>
 			</div>
 
-			)
+		)
 	}
 
 }
